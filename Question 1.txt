@@ -1,0 +1,4 @@
+The .gitignore file is a file you can add other filenames of files that exist in 
+the local repository which will tell git not to track and commit changes for these 
+files with respect to the remote repository. A .gitignore file can be created like
+any other file, for example, on the command line with "touch .gitignore" in bash.

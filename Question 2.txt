@@ -1,0 +1,2 @@
+GitLens is a useful code editor extension that displays commit numbers, authors 
+and the commit message for each line of your codebase. 
